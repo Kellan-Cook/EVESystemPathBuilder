@@ -5,7 +5,8 @@ import marshmallow
 from marshmallow import Schema, fields, post_load
 
 
-#by: Gnomagin
+#by: Kellan Cook
+
 #HOW TO USE ==========================
 #   ensure you have all dependencies from the requirements.txt file
 #   put the sqlite static data file in the same directory
